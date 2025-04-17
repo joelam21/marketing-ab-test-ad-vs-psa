@@ -19,7 +19,7 @@ MARKETING_AB_TEST/
 ├── data/                      # Data files (original or preprocessed)
 ├── notebooks/
 │   └── marketing_ab_test.ipynb    # Main analysis notebook
-├── visuals/                   # Bootstrap plots, charts, confidence intervals
+├── visuals/                   # Final presentation visuals (PDF, PowerPoint with charts confidence intervals)
 ├── requirements.txt           # Python package dependencies
 ├── README.md                  # You're here!
 └── .gitignore                 # Files/folders to exclude from Git versioning
